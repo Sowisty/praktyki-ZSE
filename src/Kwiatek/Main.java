@@ -13,5 +13,8 @@ public class Main {
 //        c = 82;
 
         System.out.println("Hello world! " + s);
+
+        Kwiatek kwiatek1 = new Kwiatek();
+        kwiatek1.setNazwa("stokrotka");
     }
 }
